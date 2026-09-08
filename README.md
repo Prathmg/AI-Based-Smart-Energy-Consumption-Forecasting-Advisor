@@ -4,7 +4,7 @@ An AI-based energy management project that uses Machine Learning to forecast ene
 
 This project was developed as part of the **1M1B AI for Sustainability Virtual Internship**, in collaboration with **IBM SkillsBuild & AICTE**.
 
----
+<img width="1920" height="1080" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/9c1dd969-a449-4923-ab2b-72f3412f9b12" />
 
 ## 🌱 Project Overview
 
